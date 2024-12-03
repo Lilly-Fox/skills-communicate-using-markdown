@@ -11,3 +11,8 @@ var myVar = "Hello, world!";
 age = 30 + 1
 print(f"My age is {age}")
 ```
+
+### This is a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
